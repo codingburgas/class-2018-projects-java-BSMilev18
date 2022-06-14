@@ -4,6 +4,10 @@
 
 *.my linguist-language=sql
 
+*.sql text working-tree-encoding=UTF-16LE eol=CRLF
+
+
+
 
 # Enable syntax highlighting for files with `.gitattributes` extensions.
 *.gitattributes linguist-language=gitattributes
