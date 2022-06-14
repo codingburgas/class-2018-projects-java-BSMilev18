@@ -1,0 +1,8 @@
+*.sql linguist-language=sql
+
+
+*.my linguist-language=sql
+
+
+# Enable syntax highlighting for files with `.gitattributes` extensions.
+*.gitattributes linguist-language=gitattributes
