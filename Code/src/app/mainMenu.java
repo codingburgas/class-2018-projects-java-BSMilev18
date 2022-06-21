@@ -22,7 +22,7 @@ public class mainMenu {
 		System.out.println("|      3. Contact & Help   |");
 		System.out.println("|      0. Exit             |");
 		System.out.println("============================");
-		System.out.println(" Select option: ");
+		menuChoice();
 	}
 
 	public static void menuChoice() {
